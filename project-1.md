@@ -8,10 +8,11 @@ Pelaporan jalan berlubang
 
 | Peran              | Nama | Catatan|
 | ------------------ | ---- | ------------------ |
-| Scrum Master    | (Requirement below) ||
+| Project Manager    | (Requirement below) ||
 | Product Owner      | (Requirement below) ||
 | Developer Back End | [Fuad Suyudi](https://github.com/fuadsuyudi) ||
 |  | [Yanu](https://github.com/ynwd) |FE/BE|
+| | [Rienaldi](https://github.com/rienaldisen) ||
 | Developer Front End | [Yanu](https://github.com/ynwd) |FE/BE|
 |  | [Yeppy](https://github.com/yeppymp) |FE/Designer|
 | Developer iOS      | [Ibrahim](https://github.com/ibrdrahim) ||
