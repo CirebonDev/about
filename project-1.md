@@ -18,10 +18,12 @@ Pelaporan jalan berlubang
 | | [Dhiky Aldwiansyah](https://github.com/Kyald1412) ||
 | Developer Android  | [Muhammad Yakub](https://github.com/zakuby) ||
 |  |  ||
+| DevOps | [Ayat Maulana](https://github.com/ayatmaulana) ||
 | Designer           |      ||
 | QA                 |      ||
 | Copy Writer        | [Lorenz Adam](https://github.com/lorenzadam) ||
 | Donatur - Ima Cakes | [Ibrahim](https://github.com/ibrdrahim) ||
+| Donatur - AWS | [Ayat Maulana](https://github.com/ayatmaulana) ||
 
 ## Deskripsi Pekerjaan
 
