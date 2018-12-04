@@ -8,22 +8,23 @@ Pelaporan jalan berlubang
 
 | Peran              | Nama | Catatan|
 | ------------------ | ---- | ------------------ |
-| Project Manager    |      ||
-| Product Owner      |      ||
+| Project Manager    | (Requirement below) ||
+| Product Owner      | (Requirement below) ||
 | Developer Back End | [Fuad Suyudi](https://github.com/fuadsuyudi) ||
-|  | [Yanu](https://github.com/ynwd) |Full stack|
-| Developer Front End | [Yanu](https://github.com/ynwd) |Full stack|
+|  | [Yanu](https://github.com/ynwd) |FE/BE|
+| Developer Front End | [Yanu](https://github.com/ynwd) |FE/BE|
+|  | [Yeppy](https://github.com/yeppymp) |FE/Designer|
 | Developer iOS      | [Ibrahim](https://github.com/ibrdrahim) ||
-|  | [Muhammad Yakub](https://github.com/zakuby) ||
-| | [Dhiky Aldwiansyah](https://github.com/Kyald1412) ||
-| Developer Android  | [Muhammad Yakub](https://github.com/zakuby) ||
-|  | [Dhiky Aldwiansyah](https://github.com/Kyald1412) ||
-| DevOps | [Ayat Maulana](https://github.com/ayatmaulana) ||
-| Designer           |      ||
+|  | [Muhammad Yakub](https://github.com/zakuby) |iOS/Android|
+| | [Dhiky Aldwiansyah](https://github.com/Kyald1412) |iOS/Android|
+| Developer Android  | [Muhammad Yakub](https://github.com/zakuby) |iOS/Android|
+|  | [Dhiky Aldwiansyah](https://github.com/Kyald1412) |iOS/Android|
+| DevOps | [Ayat Maulana](https://github.com/ayatmaulana) |DevOps/AWS|
+| Designer           | [Yeppy](https://github.com/yeppymp) |FE/Designer|
 | QA                 | [Aas Asrini](https://github.com/asrini07) ||
 | Copy Writer        | [Lorenz Adam](https://github.com/lorenzadam) ||
-| Donatur - Ima Cakes | [Ibrahim](https://github.com/ibrdrahim) ||
-| Donatur - AWS | [Ayat Maulana](https://github.com/ayatmaulana) ||
+| Donatur - Ima Cakes | [Ibrahim](https://github.com/ibrdrahim) |iOS/Donatur|
+| Donatur - AWS | [Ayat Maulana](https://github.com/ayatmaulana) |DevOps/AWS|
 
 ## Deskripsi Pekerjaan
 
