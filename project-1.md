@@ -12,8 +12,10 @@ Pelaporan jalan berlubang
 | Product Owner      |      |Disebut juga Sistem Analis|
 | Developer Back End | A ||
 |  | B ||
-| Developer iOS      | Ibrahim ||
-| Developer Android  |      ||
+| Developer iOS      | [Ibrahim](https://github.com/ibrdrahim) ||
+|  | [@zakuby](https://github.com/zakuby) ||
+| Developer Android  | [@zakuby](https://github.com/zakuby) ||
+|  |  ||
 | Designer           |      ||
 | QA                 |      ||
 | Copy Writer        |      ||
