@@ -17,7 +17,7 @@ Pelaporan jalan berlubang
 |  | [Muhammad Yakub](https://github.com/zakuby) ||
 | | [Dhiky Aldwiansyah](https://github.com/Kyald1412) ||
 | Developer Android  | [Muhammad Yakub](https://github.com/zakuby) ||
-|  |  ||
+|  | [Dhiky Aldwiansyah](https://github.com/Kyald1412) ||
 | DevOps | [Ayat Maulana](https://github.com/ayatmaulana) ||
 | Designer           |      ||
 | QA                 | [Aas Asrini](https://github.com/asrini07) ||
