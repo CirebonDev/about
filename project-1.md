@@ -9,14 +9,24 @@ Pelaporan jalan berlubang
 | Peran              | Nama | Catatan|
 | ------------------ | ---- | ------------------ |
 | Project Manager    |      ||
-| Product Owner      |      |Disebut juga Sistem Analis|
-| Developer Back End | A ||
-|  | B ||
+| Product Owner      |      ||
+| Developer Back End | [Fuad Suyudi](https://github.com/fuadsuyudi) ||
+|  | [Yanu](https://github.com/ynwd) |Full stack|
+| Developer Front End | [Yanu](https://github.com/ynwd) |Full stack|
 | Developer iOS      | [Ibrahim](https://github.com/ibrdrahim) ||
-|  | [@zakuby](https://github.com/zakuby) ||
-| Developer Android  | [@zakuby](https://github.com/zakuby) ||
+|  | [Muhammad Yakub](https://github.com/zakuby) ||
+| | [Dhiky Aldwiansyah](https://github.com/Kyald1412) ||
+| Developer Android  | [Muhammad Yakub](https://github.com/zakuby) ||
 |  |  ||
 | Designer           |      ||
 | QA                 |      ||
-| Copy Writer        |      ||
-| Donatur - Ima Cakes | Ibrahim ||
+| Copy Writer        | [Lorenz Adam](https://github.com/lorenzadam) ||
+| Donatur - Ima Cakes | [Ibrahim](https://github.com/ibrdrahim) ||
+
+## Deskripsi Pekerjaan
+
+| Peran           | Deskripsi                                      |
+| --------------- | ---------------------------------------------- |
+| Project Manager | ngadain rapat, ngingetin buat kerja, notulensi |
+| Product Owner   | Sistem Analis                                  |
+
