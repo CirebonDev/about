@@ -20,7 +20,7 @@ Pelaporan jalan berlubang
 |  |  ||
 | DevOps | [Ayat Maulana](https://github.com/ayatmaulana) ||
 | Designer           |      ||
-| QA                 |      ||
+| QA                 | [Aas Asrini](https://github.com/asrini07) ||
 | Copy Writer        | [Lorenz Adam](https://github.com/lorenzadam) ||
 | Donatur - Ima Cakes | [Ibrahim](https://github.com/ibrdrahim) ||
 | Donatur - AWS | [Ayat Maulana](https://github.com/ayatmaulana) ||
