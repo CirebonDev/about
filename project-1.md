@@ -10,8 +10,9 @@ Pelaporan jalan berlubang
 | ------------------ | ---- | ------------------ |
 | Project Manager    |      ||
 | Product Owner      |      |Disebut juga Sistem Analis|
-| Developer Back End |      ||
-| Developer iOS      |      ||
+| Developer Back End | A ||
+|  | B ||
+| Developer iOS      | Ibrahim ||
 | Developer Android  |      ||
 | Designer           |      ||
 | QA                 |      ||
