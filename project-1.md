@@ -27,8 +27,8 @@ Pelaporan jalan berlubang
 
 ## Deskripsi Pekerjaan
 
-| Peran           | Deskripsi                                      |
-| --------------- | ---------------------------------------------- |
-| Project Manager | ngadain rapat, ngingetin buat kerja, notulensi |
-| Product Owner   | Sistem Analis                                  |
+| Peran           | Deskripsi                                      | Requirement |
+| --------------- | ---------------------------------------------- | ---------------------------------------------- |
+| Project Manager | ngadain rapat, ngingetin buat kerja, notulensi |At least 2 years of Dev experience|
+| Product Owner   | Sistem Analis                                  |At least 2 years of Dev experience|
 
