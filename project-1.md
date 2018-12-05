@@ -23,6 +23,7 @@ Pelaporan jalan berlubang
 | DevOps | [Ayat Maulana](https://github.com/ayatmaulana) |DevOps/AWS|
 | Designer           | [Yeppy](https://github.com/yeppymp) |FE/Designer|
 | QA                 | [Aas Asrini](https://github.com/asrini07) ||
+|| [Muhammad Affandi](https://github.com/affandi2204)||
 | Copy Writer        | [Lorenz Adam](https://github.com/lorenzadam) ||
 | Donatur - Ima Cakes | [Ibrahim](https://github.com/ibrdrahim) |iOS/Donatur|
 | Donatur - AWS | [Ayat Maulana](https://github.com/ayatmaulana) |DevOps/AWS|
