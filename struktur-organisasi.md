@@ -1,12 +1,19 @@
 # Proposal Struktur Organisasi CirebonDev
 
-```
-Disclaimer: Highly opinionated proposal. Sangat terbuka terhadap masukan apapun. 
-```
-
 ## Visi
 
-Meningkatkan kualitas developer Cirebon
+Cirebon Dev bermaksud menghimpun, mendorong, meningkatkan serta
+memanfaatkan potensi segenap pihak yang bergerak di bidang Pemrograman, untuk
+mewujudkan suatu kondisi yang saling melengkapi, saling bertukar informasi,
+saling mengenal satu sama lain.
+
+## Misi
+
+- Menumbuhkan, mengembangkan dan meningkatkan keahlian, produktivitas, profesionalisme, peningkatan daya saing, dan meningkatkan kesejahteraan untuk bersama.
+
+- Menyebar luas kan ilmu Pemrograman, yang akan berdampak positif bagi penerimanya dalam segi analisis suatu permasalahan
+
+- Menyatukan relasi atau persaudaraan sesama penduduk Cirebon, dalam hal memperkuat dan mem pererat kebersamaan untuk Cirebon yang lebih baik
 
 
 ## Strutkur Organisasi
